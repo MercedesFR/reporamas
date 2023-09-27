@@ -1,5 +1,5 @@
 
-# -------------------otro rama1--------------------------
+# -------------------otro rama3--------------------------
 
 
 # Convierte un número decimal positivo a binario usando un 
