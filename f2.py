@@ -1,4 +1,8 @@
+
+# ---------------rama1 en f2-------------------------------
+
 # ----------rama2- modifica f2---------------------------------------
+
 # Convierte un número decimal positivo a binario usando un 
 #   determinado número de bits.
 # El binario resultante es un string e.g. "101"
